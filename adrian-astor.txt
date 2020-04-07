@@ -1,13 +1,11 @@
-completed codepen
+<!-- Unit 1, Module 2, Project link:  https://codepen.io/canerosso/pen/PoPYZeZ -->
 
-<!-- Questions to Submit in today's file first-lastname.txt --> 
 <!--
-Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
-
+It is a language that organizes your page.
     2. What is HTML used for? 
-
+HTML is used to organize the way a page looks.
     3. What is an attribute and where do we put it? 
 
     4. What is the h1 tag used for? How many times should I use it on a page?
@@ -77,6 +75,10 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     36. What is the command we would use to push our repo up to github? 
 
     37. Walk me through Lambda's git flow. 
+
+    * Fork the Repository. This creates a copy of the project onto your GitHub account
+    * Add TL to forked Repository
+    * 
 
 Stretch Questions (for a 3 grade)
 
