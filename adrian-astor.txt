@@ -40,11 +40,13 @@ You can only use an id once.
 A class is used to define equal styles for elements with the same class name, i.e., all HTML elements with the same class attribute will get the same style.
 
     11. What elements can I add a class to? 
+You can add a class to any element.
 
     12. How many times can I use the same class on a page? 
+You can use the same class any number of times.
 
     13. How do I get my link to open in a new tab?
-
+You can do this by editing the element
     14. What is the alt attribute in the image tag used for? 
 
     15. How do I reference an id?
@@ -92,6 +94,12 @@ A class is used to define equal styles for elements with the same class name, i.
     36. What is the command we would use to push our repo up to github? 
 
     37. Walk me through Lambda's git flow. 
+    * Fork the repo
+    * clone the repo
+    * cd into the directory of the clone repo
+    * git add .
+    * git commit -m "description of the changes made"
+    * git push -u origin "firstname-lastname"
 
 Stretch Questions (for a 3 grade)
 
