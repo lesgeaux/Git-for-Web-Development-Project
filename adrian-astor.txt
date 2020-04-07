@@ -3,12 +3,24 @@
 <!--
 
     1. What is Semantic HTML? 
-It is a language that organizes your page.
+It is HTML markup that structures your web page. 
+
+Commonly used tags for this purpose include:
+<h1>
+<p>
+<section>
+<nav>
+<header>
+<footer>
+
     2. What is HTML used for? 
 HTML is used to organize the way a page looks.
+
     3. What is an attribute and where do we put it? 
+Attributes are properties used to provide additional information about an element. Examples are href, src, class, id. Attributes are included in the First tag of the element.
 
     4. What is the h1 tag used for? How many times should I use it on a page?
+The h1 tag is used for the main title of the webpage and should only be used once.
 
     5. Name two tags that have required attributes
 
