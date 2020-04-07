@@ -23,16 +23,21 @@ Attributes are properties used to provide additional information about an elemen
 The h1 tag is used for the main title of the webpage and should only be used once.
 
     5. Name two tags that have required attributes
+An <a> tag and a <label> tag require attributes 
 
     6. What do we put in the head of our HTML document? 
+Information regarding the document's metadata goes in the head of the document.
 
     7. What is an id? 
+The id attribute provides a specific label for an html element. the value for that id is unique in that html page. It is used to identify single element
 
     8. What elements can I add an id to? 
+You can add ids to any element.
 
     9. How many times can I use the same id on a page? 
-
+You can only use an id once.
     10. What is a class? 
+A class is used to define equal styles for elements with the same class name, i.e., all HTML elements with the same class attribute will get the same style.
 
     11. What elements can I add a class to? 
 
@@ -88,10 +93,6 @@ The h1 tag is used for the main title of the webpage and should only be used onc
 
     37. Walk me through Lambda's git flow. 
 
-    * Fork the Repository. This creates a copy of the project onto your GitHub account
-    * Add TL to forked Repository
-    * 
-
 Stretch Questions (for a 3 grade)
 
     1. What is the difference between an inline element and a block element?
@@ -103,7 +104,4 @@ Stretch Questions (for a 3 grade)
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
-
-
-
-   --> 
+ --> 
