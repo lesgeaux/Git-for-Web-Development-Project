@@ -64,11 +64,23 @@ A section tag is used to define the different parts of the body of a page. A div
 CSS is used to style webpages.
 
     18. How to we select an element? Example - every h2 on the page
+In CSS, you type the element name before the set of curly braces. For example, to select all the "p" elements in CSS, you would type:
 
+p {
+  /* styling changes */
+}
 
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+An HTML element can only have one unique id that belongs to that single element, while a class name can be used by multiple elements:
 
     20. How do we select classes in CSS?
+Place a "." before the class name and before the set of curly braces. 
+
+For example:
+/* Style all elements with the class name "breadgroup" with a background color of blue*/
+.breadgroup {
+  background-color: blue;
+} 
 
     21. How do we select a p element with a single class of “human””?
 
