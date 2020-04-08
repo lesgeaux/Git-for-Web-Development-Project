@@ -50,8 +50,12 @@ You can do this by editing the element to include target="_blank", e.g.,
 <a target="_blank" href="http://your_url_here.html">Link</a>
 
     14. What is the alt attribute in the image tag used for? 
+The alt attribute is used to denote alternate text for the image, if the image cannot be displayed.
 
     15. How do I reference an id?
+The id value can be used by CSS and JavaScript to perform certain tasks for the element with the specific id value.
+
+In CSS, you refer with a hash (#) character, followed by the id of the element
 
     16. What is the difference between a section and a div
 
