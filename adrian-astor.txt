@@ -83,14 +83,15 @@ For example:
 } 
 
     21. How do we select a p element with a single class of “human””?
-
+p.human {
+}
     22. What is a parent child selector? When would this be useful?
 
     23. How do you select all links within a div with the class of sidebar?
 
     24. What is a pseudo selector?
 
-    25. What do we use the change the spacing between lines?
+    25. What do we use to change the spacing between lines?
 
     26. What do we use to change the spacing between letters?
 
@@ -99,18 +100,23 @@ For example:
     28. How do I add a 1px border around my div that is dotted and black?
 
     29. How do I select everything on the page? 
-
+*{}
     30. How do I write a comment in CSS?
-
+/* */
     31. How do I find out what file I am in, when I am using the command line? 
+pwd
 
     32. Using the command line - how do I see a list of files/folders in my current folder?
-
+ls
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+rm "enter file name here"
 
+We have to be careful because there is no undo for this
     34. Why should I use version control? 
+Version control is used to keep track of changes to a file. If you change the code of a file, you can always go back to a previous version or compare how these two versions act.
 
     35. How often should I commit to github?
+Anytime a meaningful change is made to a file. Usually every few minutes.
 
     36. What is the command we would use to push our repo up to github? 
 
