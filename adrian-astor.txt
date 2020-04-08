@@ -136,7 +136,7 @@ git push -u origin
 
     37. Walk me through Lambda's git flow. 
 
-    * Fork the repo
+    * Fork the repository, which copies it to your GitHub Account
     * Manage access > add TL as collaborator
     * clone the repo
     * cd into the directory of the clone repo
@@ -145,8 +145,8 @@ git push -u origin
     * git add .
     * git commit -m "description of the changes made"
     * git push -u origin "firstname-lastname"
-    * Branch:master > click your name-branch > New pull request button > base repository > change it to your forked repo > click the "Create pull request" button
-    * Add TL to Reviewers > click submit
+    * Click on Branch:firstname-lastname > Click on the grey "New pull request" button (immediately to the right of this) > base repository > change it to your forked repo > add TL to list of reviewers > click the "Create pull request" button
+    
 
 ***note: When you get to the PR page, make sure to click the dropdown button that says **base repository** and CHANGE it to be your FORKED REPO instead of the original Lambda repo (when submitting PR it will default to the original Repo this is why it needs to be changed)
 
