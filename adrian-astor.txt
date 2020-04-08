@@ -100,7 +100,7 @@ All caps: text-transform: uppercase;
 lowercase: text-transform: lowercase;
 text-transform: capitalize;
     28. How do I add a 1px border around my div that is dotted and black?
-
+<div style="border: dotted 1px black" id="mydiv">content</div> 
     29. How do I select everything on the page? 
 *{}
     30. How do I write a comment in CSS?
@@ -121,6 +121,7 @@ Version control is used to keep track of changes to a file. If you change the co
 Anytime a meaningful change is made to a file. Usually every few minutes.
 
     36. What is the command we would use to push our repo up to github? 
+git push -u origin 
 
     37. Walk me through Lambda's git flow. 
     * Fork the repo
