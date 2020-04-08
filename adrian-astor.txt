@@ -130,6 +130,15 @@ Anytime a meaningful change is made to a file. Usually every few minutes.
     * git add .
     * git commit -m "description of the changes made"
     * git push -u origin "firstname-lastname"
+    
+    Once you are done, Click on the Branch:master & click your name-branch and then click the New pull request button to make a pull request on your name branch
+
+
+- When you get to the PR page, make sure to click the dropdown button that says **base repository** and CHANGE it to be your FORKED REPO instead of the original Lambda repo (when submitting PR it will default to the original Repo this is why it needs to be changed)
+
+CLICK the Create pull request
+
+Add your TL to the Reviewers and then submit the pull request
 
 Stretch Questions (for a 3 grade)
 
