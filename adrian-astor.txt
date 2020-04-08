@@ -58,10 +58,13 @@ The id value can be used by CSS and JavaScript to perform certain tasks for the 
 In CSS, you refer with a hash (#) character, followed by the id of the element
 
     16. What is the difference between a section and a div
+A section tag is used to define the different parts of the body of a page. A div tag denotes the different containers (block elements) that your webpage has and that will be styled using CSS.
 
     17. What is CSS used for? 
+CSS is used to style webpages.
 
     18. How to we select an element? Example - every h2 on the page
+
 
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
 
@@ -101,6 +104,7 @@ In CSS, you refer with a hash (#) character, followed by the id of the element
 
     37. Walk me through Lambda's git flow. 
     * Fork the repo
+    * Manage access > add TL as collaborator
     * clone the repo
     * cd into the directory of the clone repo
     * git add .
