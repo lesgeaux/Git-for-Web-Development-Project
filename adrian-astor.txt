@@ -46,7 +46,9 @@ You can add a class to any element.
 You can use the same class any number of times.
 
     13. How do I get my link to open in a new tab?
-You can do this by editing the element
+You can do this by editing the element to include target="_blank", e.g.,
+<a target="_blank" href="http://your_url_here.html">Link</a>
+
     14. What is the alt attribute in the image tag used for? 
 
     15. How do I reference an id?
